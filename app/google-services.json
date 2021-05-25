@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243086636581",
+    "project_id": "emotion-android",
+    "storage_bucket": "emotion-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243086636581:android:b637d086ebdf3fad41b1cc",
+        "android_client_info": {
+          "package_name": "com.example.emotion_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243086636581-72bkno4dfqh592j4ln20csok7sq0uvfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKDeu2ol53zvqNbGAQuTgLPOTb4IrvXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243086636581-72bkno4dfqh592j4ln20csok7sq0uvfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
